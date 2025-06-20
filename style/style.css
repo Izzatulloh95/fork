@@ -14,6 +14,18 @@
 
 .header {
     background-color: #F2CEDA;
+display: flex;
+justify-content: center;
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
 }
 .intro{
     display: flex;
